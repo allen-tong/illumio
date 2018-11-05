@@ -2,11 +2,20 @@
 
 ###### 1) Max Value:
 
+`usage: python max_value.py <values>`
+
+```
+$ python max_value.py 6 1 2 7
+13.0
+```
+
 There are n houses built in a line, each of which contains some value in it. A thief is going to steal the maximal value in these houses, but he cannot steal in two adjacent houses because the owner of a robbed house will tell his two neighbors on the left and right side.
 
 For e.g. if there are four houses with values {6, 1, 2, 7}, the maximum stolen value is 13 when the first and fourth houses are robbed.
 
 Write a program to determine the maximum value that the thief can steal given dynamic values for n houses.
+
+</br>
 
 ###### 2) Grid Folding:
 
